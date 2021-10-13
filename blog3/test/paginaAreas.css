@@ -1,0 +1,73 @@
+
+nav{
+    background-image: url(imagens/photo-1542293787938-c9e299b880cc.jpeg) ;
+    font-size:40px;
+    font-family: 'Cookie', cursive;
+
+}
+h1{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(9, 63, 145);
+position: absolute;
+top: 60px;left: 50%;
+};
+.praias{
+    background-color: rgb(247, 244, 101);
+    width: 300px;
+    padding: 25px;
+    border: 25px solid rgb(22, 240, 193);
+    margin: 25px;
+    border-radius: 20%;
+    position: absolute;
+    top:50%;left:80%;
+};
+.beachrelax{
+width: 100px;
+};
+.mel{
+    background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 40px solid rgb(80, 22, 240);
+    margin: 40px;
+    border-radius: 20%;
+};
+.pesca{
+    background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 25px solid rgb(247, 244, 101);
+    margin: 25px;
+    border-radius: 20%;
+};
+.we{
+    color: aqua;
+    font-size: large;
+}
+.surfista{
+    background-color: rgb(247, 244, 101);
+    width: 300px;
+    padding: 25px;
+    border: 25px solid rgb(22, 240, 193);
+    margin: 25px;
+    border-radius: 20%;
+    top:200px;left:50%;
+};
+.pesca{
+    background-color: lightgrey;
+    width: 300px;
+    padding: 25px;
+    border: 25px solid rgb(22, 240, 193);
+    margin: 25px;
+    border-radius: 20%
+}
+.surfista1{
+    background-color: rgb(247, 244, 101);
+    width: 300px;
+    padding: 25px;
+    border: 25px solid rgb(22, 240, 193);
+    margin: 25px;
+    border-radius: 20%;
+    position: absolute;
+    top:30%;left:50%;
+};

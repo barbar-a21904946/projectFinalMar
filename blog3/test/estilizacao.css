@@ -1,0 +1,36 @@
+.cabecalho{
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 70px ;
+    background-color: coral;
+    background-image: url("imagens/photo-1497240299146-17ff4089466a.jpeg");
+    background-attachment: scroll;
+    background-repeat: round;
+};
+
+
+.body{
+    float: right;
+    width: 50%;
+    border: thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    border-color: aqua
+};
+
+h2{
+    font-size: 55px;
+    color: blueviolet;
+};
+img{
+    width: 20%;
+    border-radius: 20%;
+   position: absolute;
+       top: 400px;left: -170px;
+       background-image: url("imagens/lagosPraia.jpeg");
+}
+nav{
+    font-family: 'Bungee', cursive;
+    top: 400px;left: 300px;
+}
+

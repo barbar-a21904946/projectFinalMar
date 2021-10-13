@@ -1,0 +1,8 @@
+*{
+    background-color: rgba(160, 77, 238, 0.938);
+}
+h1{
+    position: absolute;
+    top: 20%;left:50%;
+    font-family: 'Montserrat', sans-serif;
+};
